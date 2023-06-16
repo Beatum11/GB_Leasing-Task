@@ -1,0 +1,10 @@
+.offerItem-container{
+    margin: 1rem;
+}
+
+.offerItem-container ul{
+    padding: 0.7rem 2rem 0 2rem;
+    display: flex;
+    justify-content: space-between;
+    list-style: none;
+}

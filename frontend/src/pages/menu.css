@@ -1,0 +1,17 @@
+.menu-container{
+    border: 1px solid black;
+    display: flex;
+    justify-content: flex-end;
+    gap: 1rem;
+    padding-top: 1rem;
+    padding-right: 2rem;
+    list-style: none;
+}
+
+.menu-container li{
+    font-size: 1.1rem;
+}
+
+.menu-container li:hover{
+    cursor: pointer;
+}

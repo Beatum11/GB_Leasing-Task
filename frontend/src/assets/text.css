@@ -1,0 +1,23 @@
+*{
+    font-family: 'Montserrat', sans-serif;
+}
+
+.xLarge-text{
+    font-size: 2rem;
+}
+
+.large-text{
+    font-size: 1.5rem;
+}
+
+.small-text{
+    font-size: 1.05rem;
+}
+
+.centred-text{
+    text-align: center;
+}
+
+.text-margin{
+    margin-bottom: 2rem;
+}

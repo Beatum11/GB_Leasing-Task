@@ -1,0 +1,6 @@
+.supplierItem-container{
+    display: flex;
+    justify-content: space-evenly;
+    list-style: none;
+    padding: 1rem;
+}
